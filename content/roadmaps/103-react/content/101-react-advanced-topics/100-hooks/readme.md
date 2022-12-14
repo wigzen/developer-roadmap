@@ -6,3 +6,4 @@ Hooks were introduced in React 16.8 and they let us use state and other React fe
 <BadgeLink colorScheme='blue' badgeText='Official Docs' href='https://reactjs.org/docs/hooks-intro.html'>Introduction to Hooks</BadgeLink>
 <BadgeLink colorScheme='blue' badgeText='Official Docs' href='https://reactjs.org/docs/hooks-reference.html'>Hooks Reference</BadgeLink>
 <BadgeLink colorScheme='yellow' badgeText='Read' href='https://www.robinwieruch.de/react-hooks/'>Hooks by Example</BadgeLink>
+<BadgeLink badgeText='Watch' href='https://youtu.be/-bEzt5ISACA'>React State Management – Intermediate JavaScript Course</BadgeLink>
